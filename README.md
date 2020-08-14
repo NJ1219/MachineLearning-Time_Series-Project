@@ -18,11 +18,11 @@ Language Used: Python with Pandas used for data cleaning
 
 ### Files
 
-[Time-Series Starter Notebook](Starter_Code/time_series_analysis.ipynb)
+[Time-Series Starter Notebook](Instructions/Starter_Code/time_series_analysis.ipynb)
 
-[Linear Regression Starter Notebook](Starter_Code/regression_analysis.ipynb)
+[Linear Regression Starter Notebook](Instructions/Starter_Code/regression_analysis.ipynb)
 
-[CAD/JPY Data CSV File](Starter_Code/cad_jpy.csv)
+[CAD/JPY Data CSV File](Instructions/Starter_Code/cad_jpy.csv)
 
 - - -
 
